@@ -3,8 +3,8 @@
 Olá! Eu sou Aline,uma pessoa apaixonada por tecnologia e dados  <h3>
 <div align="center">
   <a href="//github.com/Alinezc">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Alinezc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alinezc&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alinezc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alinezc&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
