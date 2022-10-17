@@ -1,6 +1,6 @@
 
 
-Olá! Eu sou Aline,uma pessoa apaixonada por tecnologia  <h3>
+Olá! Eu sou Aline,uma pessoa apaixonada por tecnologia e dados  <h3>
 
 
 <div style="display: inline_block"><br>
